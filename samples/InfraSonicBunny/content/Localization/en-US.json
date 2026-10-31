@@ -1,0 +1,56 @@
+{
+  "Configs": {
+    "InfraSonicConfig": {
+      "ConnectionHeader": {
+        "Label": "MULTIPLAYER CONNECTION"
+      },
+      "VoiceChannel": {
+        "Label": "Voice channel"
+      },
+      "TestConnection": {
+        "Label": "Test connection",
+        "Text": "Test"
+      },
+      "AudioHeader": {
+        "Label": "AUDIO — NATIVE SUPPORT PENDING"
+      },
+      "ProximityDistance": {
+        "Label": "Voice range"
+      },
+      "PushToTalk": {
+        "Label": "Push to talk"
+      },
+      "MicrophoneEnabled": {
+        "Label": "Enable microphone"
+      },
+      "NoiseSuppression": {
+        "Label": "Noise suppression"
+      },
+      "Amplification": {
+        "Label": "Amplification"
+      },
+      "BackgroundMusicDucking": {
+        "Label": "Music ducking"
+      },
+      "SpeakingIcons": {
+        "Label": "Speaking indicators"
+      }
+    }
+  },
+  "TouchButtons": {
+    "PushToTalk": {
+      "DisplayName": "Push to Talk"
+    },
+    "TestConnection": {
+      "DisplayName": "Test connection"
+    }
+  },
+  "CustomText": {
+    "MicrophoneUnavailable": "Android microphone is not integrated yet.",
+    "MultiplayerRequired": "Join multiplayer to test the connection.",
+    "ClientRequired": "Start the test from a connected client.",
+    "ProbeSent": "Test sent to server on channel {Channel}.",
+    "ServerAcknowledged": "Server replied on channel {Channel}. Transport OK; audio unavailable.",
+    "PeerProbed": "Test from another player: {Player}."
+  }
+}
