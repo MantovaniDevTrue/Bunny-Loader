@@ -1,0 +1,33 @@
+{
+  "uid": "5e13ac64-913b-41b8-9166-3fd53e610c47",
+  "id": "infrasonicbunny",
+  "name": "InfraSonic — Bunny Port (Base de Rede)",
+  "version": "0.1.0",
+  "authors": [
+    {
+      "name": "Oli, Cyrilly, 轩天一夏",
+      "role": "Autores originais do InfraSonic"
+    },
+    {
+      "name": "Mantovani",
+      "role": "Port Android / Bunny Loader"
+    }
+  ],
+  "category": "Utilidades",
+  "summary": "Base de diagnostico multiplayer e controles touchscreen. Sem microfone ou audio nesta fase.",
+  "license": "AGPL-3.0-only",
+  "updated": "2026-10-31",
+  "blVersion": 2,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "entry": "main.js",
+  "dependencies": [],
+  "links": [
+    {
+      "title": "InfraSonic original",
+      "url": "https://github.com/terraria-catalyst/infrasonic-mod"
+    }
+  ]
+}
